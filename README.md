@@ -8,3 +8,7 @@ You need to install python 3.6 or above. dependencies: discord, discord.py, sele
 Known issues:
 
 sometimes, the site requires a prove your humanity captcha (This will be fixed and the captcha will be done automatically)
+
+project made by:
+1.junyuxu2006
+2.AsafSivan1
